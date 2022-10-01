@@ -14,6 +14,8 @@
 </p>
 <h3>Languages, Tools, & Software</h3>
 <div id="badges">
+  <img src="/images/amazonwebservices-original-wordmark.svg" height="60">
+  <img src="/images/anaconda-original-wordmark.svg" height="60">
   <img src="/images/apple-original.svg" height="60">
   <img src="/images/atom-original.svg" height="60">
   <img src="/images/bootstrap-original.svg" height="60">  
@@ -31,6 +33,14 @@
   <img src="/images/numpy-original-wordmark.svg" height="60">
   <img src="/images/pandas-original-wordmark.svg" height="60">
   <img src="/images/postgresql-original-wordmark.svg" height="60">
+  <img src="/images/python-original-wordmark.svg" height="60">
+  <img src="/images/rstudio-original.svg" height="60"> 
+  <img src="/images/selenium-original.svg" height="60"> 
+  <img src="/images/slack-original.svg" height="60"> 
+  <img src="/images/sqlalchemy-original.svg" height="60"> 
+  <img src="/images/sqlite-original-wordmark.svg" height="60">
+  <img src="/images/vscode-original-wordmark.svg" height="60">
+
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jwhite1987" target="_blank">
