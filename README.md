@@ -13,7 +13,7 @@
     Currently seeking a full-time or contract-based data analyst role in the remote, hybrid or on-site workspaces.
 </p>
 <h3>Languages, Tools, & Software</h3>
-<img src="/images/atom-original-wordmark.svg" height="100">     
+<img src="/images/atom-original-wordmark.svg" height="100">&nbsp;   
 <img src="/images/bootstrap-original.svg" height="60">  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jwhite1987" target="_blank">
