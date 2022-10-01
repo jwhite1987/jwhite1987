@@ -46,7 +46,7 @@
 <h1 align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jwhite1987&theme=vue&date_format=j%20M%5B%20Y%5D&border=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwhite1987&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwhite1987&layout=compact&theme=vision-friendly-light&border=000000)](https://github.com/anuraghazra/github-readme-stats)
 </h1>
 </div>
 <div id="badges" align="center">
