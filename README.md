@@ -40,8 +40,8 @@
   <img src="/images/sqlalchemy-original.svg" height="60"> 
   <img src="/images/sqlite-original-wordmark.svg" height="60">
   <img src="/images/vscode-original-wordmark.svg" height="60">
-
 </div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jwhite1987&theme=dark&background=000000)](https://git.io/streak-stats)
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jwhite1987" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-JWHITE1987-informational"/>
