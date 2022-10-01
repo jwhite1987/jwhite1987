@@ -30,6 +30,7 @@
   <img src="/images/mongodb-original-wordmark.svg" height="60">
   <img src="/images/numpy-original-wordmark.svg" height="60">
   <img src="/images/pandas-original-wordmark.svg" height="60">
+  <img src="/images/postgresql-original-wordmark.svg" height="60">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jwhite1987" target="_blank">
