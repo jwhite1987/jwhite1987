@@ -43,7 +43,7 @@
 </div>
 <h1 align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jwhite1987&background=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jwhite1987&theme=vue&date_format=j%20M%5B%20Y%5D&border=000000)](https://git.io/streak-stats)
 </h1>
 
 <div id="badges" align="center">
