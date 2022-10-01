@@ -15,8 +15,9 @@
 <h3>Languages, Tools, & Software</h3>
 <div id="badges">
   <img src="/images/apple-original.svg" height="60">
-  <img src="/images/atom-original.svg" height="60">
+  <img src="/images/atom-original-wordmark.svg" height="60">
   <img src="/images/bootstrap-original.svg" height="60">  
+  <img src="/images/css3-original-wordmark.svg" height="60">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jwhite1987" target="_blank">
