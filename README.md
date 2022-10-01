@@ -14,7 +14,7 @@
 </p>
 <h3>Languages, Tools, & Software</h3>
 <img src="/images/atom-original-wordmark.svg" height="100">     
-<img src="/images/bootstrap-original-wordmark.svg" height="100">  
+<img src="/images/bootstrap-original-wordmark.svg" height="40">  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jwhite1987" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-JWHITE1987-informational"/>
