@@ -23,6 +23,7 @@
   <img src="/images/gitlab-original-wordmark.svg" height="60">
   <img src="/images/googlecloud-original.svg" height="60"> 
   <img src="/images/heroku-original-wordmark.svg" height="60">
+  <img src="/images/html-original-wordmark.svg" height="60">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jwhite1987" target="_blank">
