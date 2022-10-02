@@ -18,7 +18,6 @@
 <div id="badges">
   <img src="/images/amazonwebservices-original-wordmark.svg" height="60">
   <img src="/images/anaconda-original-wordmark.svg" height="60">
-  <img src="/images/apple-original.svg" height="60">
   <img src="/images/atom-original.svg" height="60">
   <img src="/images/bootstrap-original.svg" height="60">  
   <img src="/images/css3-original-wordmark.svg" height="60">
