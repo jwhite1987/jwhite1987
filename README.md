@@ -9,10 +9,10 @@
   Certified Data Analyst with a passion for developing data-driven narratives and complex insights in the world of data.
 </p>
 <p>
-  Building upon a background in customer service and theatre studies, the transition into working with data utilizes the creative and critical thinking from the world of theatre, and the knowledge of how to understand and address the needs of people from many different positions and backgrounds. Data analytics experience includes working in a freelance capacity as well as within an educational environment. 
+  Building upon a background in customer service and theatre studies, the transition into working with data utilizes the creative and critical thinking from the world of theatre, and the knowledge of how to understand and address the needs of people from many different positions and backgrounds. Currently working as a freelance data analyst.
 </p>
 <p>
-    Currently seeking a full-time or contract-based data analyst role in the remote, hybrid or on-site workspaces.
+    Seeking a full-time or contract-based data analyst role in the remote, hybrid or on-site workspaces.
 </p>
 <h3>Languages, Tools, & Software</h3>
 <div id="badges">
