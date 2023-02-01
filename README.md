@@ -6,7 +6,7 @@
   About Me:
 </h3>
 <p>
-Certified Data Analyst and Operations Specialist for LPL Financial with a passion for developing data-driven narratives and complex insights in the world of data. 
+Financial Data Analyst and Operations Specialist for LPL Financial with a passion for developing data-driven narratives and complex insights in the world of data. 
 </p>
 <p>
 Building upon a background in customer service and theatre studies, the transition into working with data utilizes the creative and critical thinking from the world of theatre, and the knowledge of how to understand and address the needs of people from many different positions and backgrounds.
