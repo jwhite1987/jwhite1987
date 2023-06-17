@@ -1,6 +1,6 @@
 <div style="width: 100%;">
   <a href="https://github.com/jwhite1987/jwhite1987/blob/main/welcome.svg">
-    <img src="welcome.svg" style="height: 200px;">
+    <img src="welcome.svg" style="height: 200px; width: 100%">
   </a>
 </div>
 
