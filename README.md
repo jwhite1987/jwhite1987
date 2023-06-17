@@ -1,5 +1,7 @@
 <div style="width: 100%;">
+  <a href="https://github.com/jwhite1987/jwhite1987/blob/main/header1.svg">
     <img src="header1.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
 </div>
 
 <!-- ![Black Flatlay Photo Motivational Finance Quote Facebook Cover](https://user-images.githubusercontent.com/74272707/192935121-481576ca-1d2b-4d13-ba00-a747b949fbcd.png) -->
